@@ -1,0 +1,13 @@
+{
+  "name": "forward",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/lunamcsv/forward.git",
+  "author": "lunamcsv <lunamcsv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.4",
+    "later": "^1.2.0"
+  }
+}
